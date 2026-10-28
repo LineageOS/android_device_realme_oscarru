@@ -698,11 +698,17 @@ odm/lib/libVDExternal.so
 odm/lib/libVDSuperPhotoAPI.so
 odm/lib/libc++_shared.so
 odm/lib64/camera/com.qti.sensor.gc02m1.so
+odm/lib64/camera/com.qti.sensor.gc02m1b.so
+odm/lib64/camera/com.qti.sensor.s5kjn1.so
 odm/lib64/camera/com.qti.sensor.sy_imx471.so
 odm/lib64/camera/com.qti.sensormodule.gc02m1.bin
+odm/lib64/camera/com.qti.sensormodule.gc02m1b.bin
+odm/lib64/camera/com.qti.sensormodule.s5kjn1.bin
 odm/lib64/camera/com.qti.sensormodule.sy_imx471.bin
 odm/lib64/camera/com.qti.tuned.gc02m1.bin
+odm/lib64/camera/com.qti.tuned.gc02m1b.bin
 odm/lib64/camera/com.qti.tuned.imx471.bin
+odm/lib64/camera/com.qti.tuned.s5kjn1.bin
 odm/lib64/camera/fdconfigpreview.bin
 odm/lib64/camera/fdconfigpreviewlite.bin
 odm/lib64/camera/fdconfigvideo.bin
